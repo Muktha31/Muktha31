@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate and curious learner who loves solving problems through code and building meaningful projects.
 
-## 👀 Interests
+## 🖥️ Interests
 - Full-Stack Development (MERN Stack)
 - Artificial Intelligence(AI)
 - Machine Learning(ML)
